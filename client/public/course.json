@@ -1,0 +1,111 @@
+[
+  {
+      "courseName": "Introduction to JavaScript",
+      "coursePrice": 49.99,
+      "courseDescription": "Learn the basics of JavaScript programming language.",
+      "courseDuration": "4 weeks",
+      "courseMonth": "January",
+      "courseImage": "https://user-images.githubusercontent.com/68542775/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.png",
+      "Roadmap" : "Embark on a comprehensive journey into JavaScript coding essentials starting in January. Priced affordably at $49.99, this 4-week course is tailored for beginners, covering crucial topics such as basic syntax, DOM manipulation, event handling, and asynchronous programming. Dive into interactive coding exercises that reinforce your understanding of JavaScript's fundamentals, providing a solid foundation for web development. Join us for an engaging and hands-on learning experience, where you'll gain practical skills and confidence in navigating the dynamic landscape of JavaScript. Don't miss the chance to explore the power and versatility of JavaScript in a supportive educational environment."
+
+  },
+  {
+      "courseName": "React.js Fundamentals",
+      "coursePrice": 79.99,
+      "courseDescription": "Explore the fundamentals of building web applications with React.js.",
+      "courseDuration": "6 weeks",
+      "courseMonth": "February",
+      "courseImage": "https://media.licdn.com/dms/image/C4E12AQEBVCR2SpRr9g/article-cover_image-shrink_720_1280/0/1625909824541?e=2147483647&v=beta&t=Y_zSoI8cPUR3wQvPyYK15PLWpQJJ0si6OvsuXFnIC18",
+      "Roadmap" : "Immerse yourself in the world of React.js with our 6-week course commencing in February at $79.99. This comprehensive program delves into fundamental topics, including React components, state management, JSX syntax, and handling user interactions. Participants will also explore the React component lifecycle and gain proficiency in routing with React Router. Through hands-on projects, learners will apply their knowledge to build interactive web applications. Join us for an in-depth exploration of React.js fundamentals, where you'll master key concepts and techniques, setting the stage for building dynamic and responsive user interfaces. Elevate your web development skills in this engaging and practical learning experience."
+  },
+  {
+      "courseName": "Node.js for Backend Development",
+      "coursePrice": 69.99,
+      "courseDescription": "Learn to build server-side applications using Node.js and Express.",
+      "courseDuration": "5 weeks",
+      "courseMonth": "March",
+      "courseImage": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220517005132/Why-to-Use-NodeJS-for-Backend-Development.jpg",
+      "Roadmap" : "Embark on a transformative journey into backend development using Node.js in our 5-week course starting in March at $69.99. This comprehensive program covers essential topics such as setting up a Node.js server, building RESTful APIs with Express, asynchronous programming with callbacks and Promises, and integrating databases using MongoDB. Participants will delve into middleware, authentication strategies, and best practices for scalable backend architecture. Through hands-on projects, learners will gain practical experience in developing server-side applications. Join us for an immersive learning experience, where you'll acquire the skills to create robust and efficient backend systems using Node.js and Express."
+  },
+  {
+      "courseName": "Python Programming Mastery",
+      "coursePrice": 59.99,
+      "courseDescription": "Master the Python programming language for versatile applications.",
+      "courseDuration": "8 weeks",
+      "courseMonth": "April",
+      "courseImage": "https://miro.medium.com/v2/resize:fit:774/1*DGjN7bDrc2jd6fokQbY9lg.png",
+      "Roadmap" : "Embark on a comprehensive journey into Python programming mastery with our 8-week course starting in April at $59.99. Covering essential topics such as data types, control structures, functions, and object-oriented programming, participants will also explore advanced concepts like decorators, generators, and context managers. The course delves into practical applications of Python in web development, data science, and automation. Through hands-on projects, learners will gain proficiency in leveraging Python's versatility. Join us for an immersive and practical learning experience, where you'll develop the skills to write efficient, scalable, and maintainable Python code for various applications."
+  },
+  {
+      "courseName": "Full Stack Web Development Bootcamp",
+      "coursePrice": 129.99,
+      "courseDescription": "Comprehensive training in front-end and back-end web development.",
+      "courseDuration": "10 weeks",
+      "courseMonth": "May",
+      "courseImage": "https://www.bdtask.com/blog/uploads/how-to-be-a-full-stack-developer.jpg",
+      "Roadmap" : "Embark on a dynamic 10-week Full Stack Web Development Bootcamp in May at $129.99, covering a wide array of topics crucial for modern web developers. Dive into HTML, CSS, and JavaScript fundamentals, explore front-end frameworks like React or Angular, master server-side scripting with Node.js, delve into MongoDB for database management, and learn the art of deployment using Git and Heroku. Engage in hands-on projects that simulate real-world scenarios, ensuring a comprehensive understanding of both front-end and back-end development. This immersive experience equips you with the skills to create and deploy robust web applications, propelling your career as a proficient Full Stack Web Developer."
+  },
+  {
+      "courseName": "Data Structures and Algorithms",
+      "coursePrice": 89.99,
+      "courseDescription": "Deep dive into fundamental data structures and algorithms.",
+      "courseDuration": "7 weeks",
+      "courseMonth": "June",
+      "courseImage": "https://dpi.df.daffodil.family/web/image/slide.channel/176/image_1920/Data%20Structure%20%26%20Algorithm%20%2828542%29?unique=f8b2c6f",
+      "Roadmap" : "Embark on a 7-week journey into the heart of computing with our comprehensive Data Structures and Algorithms course in June, priced at $89.99. Dive into fundamental topics such as arrays, linked lists, stacks, queues, trees, and graphs. Explore algorithmic techniques, including searching, sorting, and dynamic programming. Participants will learn to analyze the time and space complexity of algorithms, honing problem-solving skills. The course delves into advanced topics like hash tables and introduces key algorithmic paradigms. Through coding exercises and projects, learners will gain a deep understanding of efficient data organization and algorithmic design, essential for success in software development and technical interviews. Join us for a transformative learning experience, where you'll master the building blocks of computer science."
+  },
+  {
+      "courseName": "App Development with Flutter",
+      "coursePrice": 99.99,
+      "courseDescription": "Build cross-platform mobile apps with Flutter and Dart.",
+      "courseDuration": "6 weeks",
+      "courseMonth": "July",
+      "courseImage": "https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2020/09/Flutter-App-development.jpg",
+      "Roadmap" : "Embark on a 6-week journey into Mobile App Development with Flutter in July at $99.99. This course is designed to equip participants with the skills to build cross-platform mobile applications using Flutter and Dart. Topics covered include Flutter widget tree, state management, navigation, responsive design, and integration with APIs. Participants will engage in hands-on projects to create functional mobile apps, gaining proficiency in UI/UX design and app deployment. The course also explores Flutter's capabilities for building beautiful and performant native interfaces. Join us for an immersive learning experience, where you'll harness the power of Flutter to develop versatile and visually appealing mobile applications for both Android and iOS platforms."
+  },
+  {
+      "courseName": "Machine Learning with Python",
+      "coursePrice": 119.99,
+      "courseDescription": "Explore machine learning concepts and applications using Python.",
+      "courseDuration": "8 weeks",
+      "courseMonth": "August",
+      "courseImage": "https://media.licdn.com/dms/image/D5612AQF98axVlLMdbA/article-cover_image-shrink_600_2000/0/1688490371833?e=2147483647&v=beta&t=hFVGHR9i7BiyjcK7DjMzHZ9uKzW2sG-QI3MgBpW27zw",
+      "Roadmap" : "Embark on an 8-week journey into the dynamic realm of Machine Learning with Python starting in August at $119.99. This comprehensive course delves into fundamental machine learning concepts, including supervised and unsupervised learning, classification, regression, and clustering. Participants will explore popular machine learning libraries like scikit-learn and TensorFlow, mastering techniques for model training, evaluation, and optimization. The course also covers real-world applications, enabling learners to tackle diverse machine learning challenges. Engage in hands-on projects that apply machine learning algorithms to practical scenarios, fostering a deep understanding of the field. Join us for an enriching and practical learning experience, where you'll gain the skills to leverage Python for machine learning applications and decision-making."
+  },
+  {
+      "courseName": "Advanced Frontend Frameworks",
+      "coursePrice": 89.99,
+      "courseDescription": "Master advanced features of popular frontend frameworks like Angular and Vue.",
+      "courseDuration": "7 weeks",
+      "courseMonth": "September",
+      "courseImage": "https://www.gurutechnolabs.com/wp-content/uploads/2020/03/Top-Front-End-Frameworks.jpg",
+      "Roadmap" : "Embark on a 7-week exploration of Advanced Frontend Frameworks starting in September at $89.99. This course is tailored for seasoned developers aiming to master advanced features of popular frontend frameworks such as Angular and Vue. Topics covered include state management, routing, component lifecycle, and advanced UI techniques. Participants will delve into optimizing performance and integrating with backend services. Through challenging projects and real-world applications, learners will solidify their expertise in building responsive and efficient user interfaces. Join us for an immersive learning experience, where you'll elevate your frontend development skills, creating sophisticated and seamless user experiences with cutting-edge frontend frameworks."
+  },
+  {
+      "courseName": "Cybersecurity Essentials",
+      "coursePrice": 109.99,
+      "courseDescription": "Learn essential concepts and techniques in cybersecurity.",
+      "courseDuration": "9 weeks",
+      "courseMonth": "October",
+      "courseImage": "https://www.commercialintegrator.com/wp-content/uploads/2021/11/cybersecurity-image-1000x500-1.jpg",
+      "Roadmap" : "Embark on a 9-week exploration of Cybersecurity Essentials beginning in October at $109.99. This course provides a comprehensive understanding of essential concepts and techniques in cybersecurity. Topics covered include network security, encryption, authentication, threat detection, incident response, and ethical hacking. Participants will gain hands-on experience in securing systems and networks through practical exercises and simulations. The course emphasizes industry best practices and current cybersecurity trends, preparing learners for the challenges of a rapidly evolving digital landscape. Join us for an immersive learning experience, where you'll develop the skills and knowledge required to safeguard digital assets and contribute to the ever-growing field of cybersecurity."
+  },
+  {
+      "courseName": "Blockchain Development Basics",
+      "coursePrice": 79.99,
+      "courseDescription": "Introduction to blockchain technology and smart contract development.",
+      "courseDuration": "6 weeks",
+      "courseMonth": "November",
+      "courseImage": "https://www.webinstitute.com.bd/public/frontend/course/thumbnail/thumbnail-1712143726-1.png",
+      "Roadmap" : "Embark on a 6-week journey into Blockchain Development Basics starting in November at $79.99. This course offers an introduction to blockchain technology and smart contract development. Topics covered include decentralized ledgers, consensus algorithms, cryptocurrency fundamentals, and building smart contracts with languages like Solidity. Participants will engage in hands-on projects to create simple decentralized applications (DApps) and understand the principles behind blockchain security. The course aims to demystify blockchain, making it accessible for developers seeking to explore this transformative technology. Join us for an insightful learning experience, where you'll acquire the foundational knowledge to embark on your journey into the world of blockchain development."
+  },
+  {
+      "courseName": "Cloud Computing with AWS",
+      "coursePrice": 129.99,
+      "courseDescription": "Explore cloud computing and AWS services for scalable applications.",
+      "courseDuration": "10 weeks",
+      "courseMonth": "December",
+      "courseImage": "https://dfxbrma6dkuks.cloudfront.net/images/99999998308249390000_6c916990-ba62-44a0-81a3-90e04fe26337.jpeg",
+      "Roadmap" : "Embark on a 10-week exploration of Cloud Computing with AWS commencing in December at $129.99. This comprehensive course introduces participants to cloud computing concepts and the services offered by Amazon Web Services (AWS). Topics covered include virtualization, storage, networking, security, and scalability in the AWS cloud environment. Participants will gain hands-on experience through practical exercises and projects, learning to deploy and manage scalable applications. The course emphasizes best practices for cost optimization and performance tuning in AWS. Join us for an immersive learning experience, where you'll acquire the skills to leverage AWS for building and deploying robust and scalable cloud-based solutions."
+  }
+]

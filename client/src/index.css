@@ -1,55 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Poppins&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* Light mode styles */
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
-}
-
-/* Base styles and variables */
-@layer base {
-  :root {
-    --border: 0 0% 89.8%;
-    --background: 0 0% 100%;
-    --foreground: 0 0% 3.9%;
-  }
-  .dark {
-    --border: 0 0% 14.9%;
-    --background: 0 0% 3.9%;
-    --foreground: 0 0% 98%;
-  }
-
-  /* Define custom classes */
-  .border-border {
-    border-color: hsl(var(--border)); /* Uses the custom --border variable */
-  }
-  .bg-background {
-    background-color: hsl(
-      var(--background)
-    ); /* Uses the custom --background variable */
-  }
-  .text-foreground {
-    color: hsl(var(--foreground)); /* Uses the custom --foreground variable */
-  }
-}
-
-/* Apply custom classes globally */
-@layer base {
-  * {
-    border-color: hsl(var(--border)); /* Apply custom border color */
-  }
-  body {
-    background-color: hsl(var(--background)); /* Apply custom background */
-    color: hsl(var(--foreground)); /* Apply custom text color */
-  }
-}
